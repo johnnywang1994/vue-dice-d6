@@ -4,8 +4,6 @@ A d6 vue dice component with animation setted for easily usage
 
 the component used `scss` for developing, remember to install the node-sass.
 
-> See [Live Demo](https://johnnywang1994.github.io/slide-puzzle)
-
 
 ## Install
 
