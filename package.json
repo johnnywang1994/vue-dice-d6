@@ -1,0 +1,8 @@
+{
+  "name": "vue-dice-d6",
+  "version": "1.0.0",
+  "main": "DiceD6.vue",
+  "repository": "https://github.com/johnnywang1994/vue-dice-d6.git",
+  "author": "Johnny Wang <johnny29621189@kimo.com>",
+  "license": "MIT"
+}
